@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "27449484769",
+    "project_id": "react-native-push-notifi-46135",
+    "storage_bucket": "react-native-push-notifi-46135.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27449484769:android:617e4bbd29c6fa2c9c5ea0",
+        "android_client_info": {
+          "package_name": "com.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27449484769-a1in3at0uknqbak4hou1df0pbig9f9ut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCckltoIc0b1ZVqvE6ztc8rbP4YgCIdJ2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27449484769-a1in3at0uknqbak4hou1df0pbig9f9ut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27449484769:android:bd34ffff49bff6939c5ea0",
+        "android_client_info": {
+          "package_name": "com.reactnativefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27449484769-80r1rmr4dtuvnj2ikduc4034r1ljs0ip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reactnativefirebase",
+            "certificate_hash": "433408a0e743e2dbfcea5c86f8e290bb6720ad62"
+          }
+        },
+        {
+          "client_id": "27449484769-a1in3at0uknqbak4hou1df0pbig9f9ut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCckltoIc0b1ZVqvE6ztc8rbP4YgCIdJ2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27449484769-a1in3at0uknqbak4hou1df0pbig9f9ut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

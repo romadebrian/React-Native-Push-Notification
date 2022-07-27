@@ -1,0 +1,25 @@
+curl --location --request POST 'https://fcm.googleapis.com/fcm/send' \
+--header 'Authorization: key=SERVER_KEYnya' \
+--header 'Content-Type: application/json' \
+--data-raw '{
+    "to": "TOKEN APLIKASInya",
+    "priority": "high",
+    "soundName": "default",
+    "notification": {
+        "title": "Halo Roma",
+        "body": "Ini adalah FCM melalui postman"
+    }
+}'
+
+curl --location --request POST 'https://fcm.googleapis.com/fcm/send' \
+--header 'Authorization: key=AAAABmQd5eE:APA91bHv_UVj5qj94wMuVkbDZ_XdyXmZ7Yhzx36aP1loLL-_KwaI5qbEo5-WYyyKvbhrvnPY7VnxUKJ4mixRPko7BoZwFG-YL_QFZHCIX_v1aMot5NjtO1vQL_cdXbQhn6uu8xMdzD3f' \
+--header 'Content-Type: application/json' \
+--data-raw '{
+    "to": "eUdqbGtKTJGjL4oBvpRSM0:APA91bGKjChYZxTwn9uEHopZ6Tx8c1YIECWv3iSm52FotyXJbDew3kbqmroLCQZqFUThhZvBhLjtw_lnHJlo_0cMjCr1DBROyBZe0gHH7F17p84fCy7b1QGVrJWrZcRomtrlYKQBLx5f",
+    "priority": "high",
+    "soundName": "default",
+    "notification": {
+        "title": "Halo Roma",
+        "body": "Ini adalah FCM melalui postman"
+    }
+}'
